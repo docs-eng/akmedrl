@@ -1,4 +1,4 @@
-This respository at [github.com/docs-eng/akmedrl] has been forked for the Medical Device Working Group [https://germanupa.de/arbeitskreise/arbeitskreis-medizintechnik] and currently under development. It has been forked from the reading list on Usable Security and Privacy at [usprl.github.io].
+This respository at [https://github.com/docs-eng/akmedrl] has been forked for the Medical Device Working Group [https://germanupa.de/arbeitskreise/arbeitskreis-medizintechnik] and currently under development. It has been forked from the reading list on Usable Security and Privacy at [usprl.github.io].
 
 # Reading List of German UPA
 
