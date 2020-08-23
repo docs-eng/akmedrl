@@ -1,3 +1,5 @@
+This respository at [github.com/docs-eng/akmedrl/] has been forked for the Medical Device Working Group [https://germanupa.de/arbeitskreise/arbeitskreis-medizintechnik] and currently under development. It has been forked from the reading list on Usable Security and Privacy at [usprl.github.io].
+
 # Reading List of German UPA
 
 This repository collects literature worth reading from the field of Usable Security and Privacy. The list is managed by the German UPA and everyone can contribute to it by creating a [pull request] on GitHub. After reviewing the request, we will add the new literature entry to the list.
